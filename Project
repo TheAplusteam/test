@@ -1,0 +1,12 @@
+# this is a class that contains all the methods definitions
+class Box 
+  
+    def Add(TableName, ColumnName, Data):
+      Blabla
+      Blabla
+      Blabla
+      
+    def Delete(TableName, ColumnName, Data):
+      Blabla
+      Blabla
+      Blabla
